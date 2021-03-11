@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.0](https://www.github.com/ijo42/ObscureSlangTranslator/compare/v1.2.0...v1.3.0) (2021-03-11)
+
+
+### Features
+
+* additional formatting checks ([3d63254](https://www.github.com/ijo42/ObscureSlangTranslator/commit/3d63254ca5a3cfee3ec269d475eb7929c9aefe2b))
+
 ## [1.2.0](https://www.github.com/ijo42/ObscureSlangTranslator/compare/v1.1.0...v1.2.0) (2021-03-07)
 
 
